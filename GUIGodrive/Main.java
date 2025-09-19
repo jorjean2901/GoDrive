@@ -5,6 +5,3 @@ public class Main {
         new MainFrame();
     }
 }
-
-
-// JOptionPane.showMessageDialog(null, "oso");
